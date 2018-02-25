@@ -2,4 +2,4 @@
  Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
  For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang("codesnippet","fr",{button:"Insérer un extrait de code",codeContents:"Code",emptySnippetError:"Un extrait de code ne peut pas être vide.",language:"Langue",title:"Extrait de code",pathName:"extrait de code"});
+CKEDITOR.plugins.setLang("devtools","fr",{title:"Informations sur l'élément",dialogName:"Nom de la boîte de dialogue",tabName:"Nom de l'onglet",elementId:"ID de l'élément",elementType:"Type de l'élément"});
