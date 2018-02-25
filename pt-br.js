@@ -1,5 +1,1 @@
-﻿/*
- Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","pt-br",{title:"Informação do Elemento",dialogName:"Nome da janela de diálogo",tabName:"Nome da aba",elementId:"ID do Elemento",elementType:"Tipo do elemento"});
+﻿CKEDITOR.plugins.setLang("find","pt-br",{find:"Localizar",findOptions:"Opções",findWhat:"Procurar por:",matchCase:"Coincidir Maiúsculas/Minúsculas",matchCyclic:"Coincidir cíclico",matchWord:"Coincidir a palavra inteira",notFoundMsg:"O texto especificado não foi encontrado.",replace:"Substituir",replaceAll:"Substituir Tudo",replaceSuccessMsg:"%1 ocorrência(s) substituída(s).",replaceWith:"Substituir por:",title:"Localizar e Substituir"});

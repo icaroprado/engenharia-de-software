@@ -1,5 +1,1 @@
-﻿/*
- Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","id",{title:"Informasi Elemen",dialogName:"Nama jendela dialog",tabName:"Nama tab",elementId:"ID Elemen",elementType:"Tipe elemen"});
+﻿CKEDITOR.plugins.setLang("find","id",{find:"Temukan",findOptions:"Opsi menemukan",findWhat:"Temukan apa:",matchCase:"Match case",matchCyclic:"Match cyclic",matchWord:"Match whole word",notFoundMsg:"Teks yang dipilih tidak ditemukan",replace:"Ganti",replaceAll:"Ganti Semua",replaceSuccessMsg:"%1 occurrence(s) replaced.",replaceWith:"Ganti dengan:",title:"Temukan dan Ganti"});

@@ -1,1 +1,1 @@
-﻿CKEDITOR.plugins.setLang("colordialog","si",{clear:"පැහැදිලි",highlight:"මතුකර පෙන්වන්න",options:"වර්ණ විකල්ප",selected:"තෙරු වර්ණ",title:"වර්ණ තෝරන්න"});
+﻿CKEDITOR.plugins.setLang("find","si",{find:"Find",findOptions:"Find Options",findWhat:"Find what:",matchCase:"Match case",matchCyclic:"Match cyclic",matchWord:"Match whole word",notFoundMsg:"The specified text was not found.",replace:"හිලව් කිරීම",replaceAll:"සියල්ලම හිලව් කරන්න",replaceSuccessMsg:"%1 occurrence(s) replaced.",replaceWith:"Replace with:",title:"Find and Replace"});

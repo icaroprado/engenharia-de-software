@@ -1,5 +1,1 @@
-﻿/*
- Copyright (c) 2003-2017, CKSource - Frederico Knabben. All rights reserved.
- For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
-CKEDITOR.plugins.setLang("devtools","pl",{title:"Informacja o elemencie",dialogName:"Nazwa okna dialogowego",tabName:"Nazwa zakładki",elementId:"ID elementu",elementType:"Typ elementu"});
+﻿CKEDITOR.plugins.setLang("find","pl",{find:"Znajdź",findOptions:"Opcje wyszukiwania",findWhat:"Znajdź:",matchCase:"Uwzględnij wielkość liter",matchCyclic:"Cykliczne dopasowanie",matchWord:"Całe słowa",notFoundMsg:"Nie znaleziono szukanego hasła.",replace:"Zamień",replaceAll:"Zamień wszystko",replaceSuccessMsg:"%1 wystąpień zastąpionych.",replaceWith:"Zastąp przez:",title:"Znajdź i zamień"});
